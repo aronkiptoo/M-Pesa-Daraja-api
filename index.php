@@ -1,0 +1,5 @@
+<?php
+
+echo "DARAJA API BY CAMPUS DELIVERY";
+
+?>
